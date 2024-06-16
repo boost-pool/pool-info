@@ -1,0 +1,36 @@
+{
+    "info": {
+        "url_png_icon_64x64": "https://github.com/boost-pool/pool-info/assets/dblogo64x64.png",
+        "url_png_logo": "https://github.com/boost-pool/pool-info/assets/dbLogo.png",
+        "location": "Madrid, Spain",
+        "social": {
+            "twitter_handle": "BoostPool",
+            "telegram_handle": "",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+        "company": {
+            "name": "BoostPool",
+            "addr": "Distributed",
+            "city": "",
+            "country": "",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "Since 2020",
+            "server": "Multi-cloud & baremetal nodes",
+            "company": "boostpool.io"
+        },
+        "rss": ""
+    },
+    "my-pool-ids": {
+        "0": ""
+    },
+    "when-satured-then-recommend": {
+        "0": ""
+    }
+}
