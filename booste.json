@@ -1,7 +1,7 @@
 {
     "info": {
-        "url_png_icon_64x64": "https://github.com/boost-pool/pool-info/boost-icon-64x64.png",
-        "url_png_logo": "https://github.com/boost-pool/pool-info/boost-icon.png",
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/boost-pool/pool-info/main/boost-icon-64x64.png",
+        "url_png_logo": "https://raw.githubusercontent.com/boost-pool/pool-info/main/boost-icon.png",
         "location": "Madrid, Spain",
         "social": {
             "twitter_handle": "BoostPool",
